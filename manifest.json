@@ -1,6 +1,6 @@
 {
-    "name": "wraple",
-    "short_name": "wraple",
+    "name": "kodlama_yardimcisi",
+    "short_name": "kodlama_yardimcisi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
